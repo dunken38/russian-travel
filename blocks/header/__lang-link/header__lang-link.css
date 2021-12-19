@@ -1,3 +1,19 @@
 .header__lang-link {
-
+  color: white;
+  font-family: 'Inter';
+  line-height: 28px;
+  font-size: 24px;
+  font-weight: normal;
+  text-decoration: none;
+  margin: 18px 0 6px 18px;
+  outline: gray 1px solid;
 }
+
+.header__lang-link:first-of-type {
+  margin-left: auto;
+}
+
+.header__lang-link:lang(active) {
+  text-decoration: underline;
+}
+
