@@ -1,3 +1,9 @@
 .lead__image {
-
+  background-image: url(../../../images/seat.png);
+  width: 984px;
+  height: 615px;
+  background-size: contain;
+  text-align: center;
+  box-sizing: border-box;
+  padding-top: 10%;
 }

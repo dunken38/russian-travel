@@ -1,3 +1,9 @@
 .place__title {
-
+  margin: 0;
+  color: white;
+  font-family: 'Inter';
+  line-height: 76px;
+  font-size: 72px;
+  font-style: normal;
+  outline: 1px gray solid;
 }

@@ -1,0 +1,11 @@
+.place__website_link {
+  margin: 0;
+  color: white;
+  font-family: 'Inter';
+  line-height: 122%;
+  font-size: 18px;
+  font-style: normal;
+  text-decoration-line: underline;
+  align-self: flex-start;
+  outline: 1px gray solid;
+}

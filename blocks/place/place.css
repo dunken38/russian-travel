@@ -1,3 +1,8 @@
 .place {
-
+  width: 984px;
+  display: grid;
+  grid-template-columns: 460px 484px;
+  grid-template-rows: repeat (2);
+  gap: 48px 40px;
+  outline: 1px gray solid;
 }

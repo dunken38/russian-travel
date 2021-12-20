@@ -1,3 +1,9 @@
 .footer__copyright {
-
+  margin-left: auto;
+  color: white;
+  font-family: 'Inter';
+  line-height: 114%;
+  font-size: 14px;
+  font-style: normal;
+  outline: 1px gray solid;
 }

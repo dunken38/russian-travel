@@ -1,3 +1,9 @@
 .place__paragraph {
-
+  margin: 0 0 26px;
+  color: white;
+  font-family: 'Inter';
+  line-height: 163%;
+  font-size: 18px;
+  font-style: normal;
+  outline: 1px gray solid;
 }
