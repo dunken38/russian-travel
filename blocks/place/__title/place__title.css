@@ -2,8 +2,22 @@
   margin: 0;
   color: white;
   font-family: 'Inter';
-  line-height: 76px;
+  line-height: 106%;
   font-size: 72px;
   font-style: normal;
-  outline: 1px gray solid;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__title {
+    line-height: 110%;
+    font-size: 42px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__title {
+    line-height: 109%;
+    font-size: 32px;
+    margin: 0 16px 0;
+  }
 }

@@ -1,12 +1,11 @@
 .header__lang-link {
   color: white;
   font-family: 'Inter';
-  line-height: 28px;
+  line-height: 117%;
   font-size: 24px;
   font-weight: normal;
   text-decoration: none;
   margin: 18px 0 6px 18px;
-  outline: gray 1px solid;
 }
 
 .header__lang-link:first-of-type {
@@ -17,3 +16,10 @@
   text-decoration: underline;
 }
 
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    line-height: 111%;
+    font-size: 18px;
+    margin: 14px 0 8px 18px;
+  }
+}
