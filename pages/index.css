@@ -32,11 +32,12 @@
 @import url(../blocks/places/places.css);
 @import url(../blocks/link/link.css);
 
+
 @font-face{
-  font-family:'Inter-Light';
+  font-family:'Inter-Regular';
   font-weight:normal;
-  src: url("../fonts/Inter-Light.woff2") format("woff2"),
-       url("../fonts/Inter-Light.woff") format("woff");
+  src: url("../fonts/Inter-Regular.woff2") format("woff2"),
+       url("../fonts/Inter-Regular.woff") format("woff");
 }
 
 @font-face{
