@@ -1,16 +1,12 @@
 .header__lang-link {
   color: white;
-  font-family: 'Inter-Light';
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
   line-height: 117%;
   font-size: 24px;
-  font-weight: normal;
   text-decoration: none;
   margin: 18px 0 6px 18px;
-}
-
-.header__lang-link:first-of-type {
-  margin-left: auto;
-  text-decoration: underline;
 }
 
 @media screen and (max-width: 767px) {

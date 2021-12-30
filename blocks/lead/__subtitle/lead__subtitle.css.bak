@@ -2,10 +2,11 @@
   width: 640px;
   margin: 0 auto 64px;
   color: white;
-  font-family: 'Inter-Light';
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
   line-height: 36px;
   font-size: 30px;
-  font-style: normal;
   text-align: center;
 }
 

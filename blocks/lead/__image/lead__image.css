@@ -1,12 +1,6 @@
 .lead__image {
-  background: url(../../../images/seat.png);
   width: 100%;
   height: auto;
-  background-size: 100% 100%;
-  box-sizing: border-box;
-  padding: 10% 10% 30% 10%;
-}
-
-.lead__image img {
-  max-width: 100%;
+  margin: 0;
+  outline: 1px solid red;
 }

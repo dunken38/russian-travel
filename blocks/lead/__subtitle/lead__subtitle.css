@@ -2,11 +2,13 @@
   width: 640px;
   margin: 0 auto 64px;
   color: white;
-  font-family: 'Inter-Regular';
+  font-family: 'Inter', 'Corbel', sans-serif;
+  font-style: normal;
+  font-weight: normal;
   line-height: 36px;
   font-size: 30px;
-  font-style: normal;
   text-align: center;
+  outline: 1px solid red;
 }
 
 @media screen and (max-width: 1279px) {

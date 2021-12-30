@@ -6,10 +6,11 @@
   left: 0;
   right: 0;
   color: white;
-  font-family: 'Inter-Light';
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
   line-height: 122%;
   font-size: 18px;
-  font-style: normal;
   text-align: center;
 }
 

@@ -3,12 +3,12 @@
   margin: 0;
   padding: 0;
   color: white;
-  font-family: 'Inter-Regular';
+  font-family: 'Inter', 'Corbel', sans-serif;
+  font-style: normal;
+  font-weight: bold;
   line-height: 18px;
   font-size: 12px;
-  font-style: normal;
   list-style-type: none;
-  font-weight: bold;
 }
 
 /*тут сделано чтобы цифры в списке были не жирными*/

@@ -2,13 +2,12 @@
   width: 720px;
   margin: 0 auto 32px;
   color: white;
-  font-family: 'Inter', 'Corbel', sans-serif;
+  font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
   line-height: 100px;
   font-size: 96px;
   text-align: center;
-  outline: 1px solid red;
 }
 
 @media screen and (max-width: 767px) {

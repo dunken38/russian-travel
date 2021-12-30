@@ -2,8 +2,9 @@
   width: 100%;
   margin: 0 0 33px;
   color: white;
-  font-family: 'Inter-Regular';
+  font-family: 'Inter', 'Corbel', sans-serif;
+  font-style: normal;
+  font-weight: normal;
   line-height: 163%;
   font-size: 16px;
-  font-style: normal;
 }

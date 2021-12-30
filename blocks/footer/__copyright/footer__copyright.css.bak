@@ -1,10 +1,11 @@
 .footer__copyright {
   margin-left: auto;
   color: white;
-  font-family: 'Inter-Light';
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
   line-height: 114%;
   font-size: 14px;
-  font-style: normal;
 }
 
 @media screen and (max-width: 767px) {
