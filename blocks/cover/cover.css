@@ -4,7 +4,6 @@
   margin: 0 auto 92px;
   display: flex;
   flex-direction: column;
-  position: relative;
 }
 
 @media screen and (max-width: 1279px) {
