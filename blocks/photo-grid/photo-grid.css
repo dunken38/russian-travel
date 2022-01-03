@@ -1,9 +1,13 @@
 .photo-grid {
-  margin: 0 48px 92px 48px;
+  margin: 0;
+  padding: 0;
+  max-width: 1184px;
+  margin: 0 auto 92px;
   display: grid;
   grid-template-columns: repeat(auto-fill, 284px);
   grid-gap: 16px;
   justify-content: center;
+  list-style-type: none;
 }
 
 @media screen and (max-width: 1279px) {

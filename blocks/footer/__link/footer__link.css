@@ -1,5 +1,4 @@
 .footer__link {
-  margin: 0 18px 0 0;
   color: white;
   font-family: 'Inter', 'Corbel', sans-serif;
   font-style: normal;
@@ -11,12 +10,7 @@
 
 @media screen and (max-width: 767px) {
   .footer__link {
-    margin: 0 0 32px;
     line-height: 100%;
     font-size: 24px;
-  }
-
-  .footer__link:last-of-type {
-    margin-bottom: 48px;
   }
 }
